@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x16. C - Simple Shell
  **By Spencer Cheng, featuring Julien Barbier**
  Project to be done in teams of 2 people (your team: Godswill Kalu, Vatalis Ibeh)
@@ -103,3 +104,6 @@ write (man 2 write)
 - string.c -it handles the strings(string length, write string,find string in directory,concatane strings....)
 - cmd.c - it finds the command the user entered.
 - execute.c - execute the command.
+=======
+This is my README
+>>>>>>> ba6f460d78db0d366dd836ca045e07b2dc0ac954
